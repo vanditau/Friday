@@ -1,0 +1,2 @@
+# Friday
+Rails application
